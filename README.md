@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 🙋‍♂️  Mubangizi here!
 
+<div align="center">
+
+## About me?
+
+I am a software developer in Uganda, who love tackling challeges and solving them, currently I am a full stack developer my major stack is Python (Flask) and javascript (React). My major strong hold is backend and currently looking into devops.
+#### Here is my current status:
+- 🔭 I’m currently working on bettering myself
+- 🌱 I’m currently learning cloud computing and devops
+- 👯 I’m looking to collaborate on fullstack web apps
+- 📫 How to reach me: mubangizia22@gmail.com
+- ⚡ Fun fact: I am looking for problems 😄
 <!--
-**Mubangizi/Mubangizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubangizi&theme=dark&hide=html,dockerfile" alt="francislagares" />
+</a>
 -->
+[![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=monokai)](https://github.com/mubangizi)
+</div>
