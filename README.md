@@ -4,7 +4,7 @@
 
 ## About me?
 
-I am a software developer in Uganda, who loves tackling challeges and solving them, currently I am a full stack developer my major stack is Python (Flask) and javascript (Reactjs). My major stronghold is backend and currently looking into devops.
+I am a software developer in Uganda, who loves tackling challeges and solving them, currently I am a full stack developer my major stack is Python (Flask) and javascript (Reactjs). My major stronghold is backend and currently looking into devops and working with microservices
 <div align="left">
   
 #### Here is my current status:
