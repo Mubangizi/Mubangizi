@@ -49,6 +49,6 @@ I am a software developer from Uganda, who loves tackling challeges and solving 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubangizi&theme=dark&hide=html,dockerfile" alt="francislagares" />
 </a>
 --> 
-[![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=monokai)](https://github.com/mubangizi)
+[![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=algolia)](https://github.com/mubangizi)
 
 
