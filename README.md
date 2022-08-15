@@ -41,6 +41,7 @@ I am a software developer from Uganda, who loves tackling challeges and solving 
 ![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor)
 ![Mongo](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor)
+![Redis](https://icongr.am/devicon/redis-original-wordmark.svg?size=50&color=currentColor)
 ![CircleCi](https://icongr.am/simple/circleci.svg?size=50&color=currentColor&colored=false)
 
 ---
