@@ -40,6 +40,7 @@ I am a software developer from Uganda, who loves tackling challeges and solving 
 ![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 ![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor)
+![Expo](https://icongr.am/simple/expo.svg?size=47&color=2b2e40&colored=false)
 ![Mongo](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor)
 ![Redis](https://icongr.am/devicon/redis-original-wordmark.svg?size=50&color=currentColor)
 ![CircleCi](https://icongr.am/simple/circleci.svg?size=50&color=currentColor&colored=false)
@@ -49,7 +50,7 @@ I am a software developer from Uganda, who loves tackling challeges and solving 
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubangizi&theme=dark&hide=html,dockerfile" alt="francislagares" />
 </a>
---> 
-[![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=algolia)](https://github.com/mubangizi)
 
+[![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=algolia)](https://github.com/mubangizi)
+--> 
 
