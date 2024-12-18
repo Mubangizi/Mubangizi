@@ -54,7 +54,7 @@ Iam software developer, I thrive on challenges and love solving problems. Curren
 [![Mubangizi's github stats](https://github-readme-stats.vercel.app/api?username=mubangizi&show_icons=true&theme=algolia)](https://github.com/mubangizi)
 --> 
 
-<a href="https://mubangiziallan.netlify.app/">
+<a href="https://mubangiziallan.netlify.app/" target="_blank">
   <img
     src="https://render.gitanimals.org/lines/Mubangizi"
     width="100%"
